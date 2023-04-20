@@ -6,4 +6,6 @@
   position: absolute;
   z-index: 1;
   margin: 0;
+  object-fit: cover;
+  object-position: left bottom;
 }
