@@ -1,8 +1,6 @@
 .resources__link {
   text-decoration: none;
   margin: 0;
-  width: 270px;
-  height: 38px;
   transition: opacity 0.6s;
 }
 
